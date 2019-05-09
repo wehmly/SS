@@ -1,1 +1,15 @@
-ss
+[Proxy]
+🇭🇰SS = ss, 35.241.105.142, 8686, encrypt-method=aes-256-cfb, password=plm123456
+🇯🇵SS = ss, 172.104.123.158, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+🇸🇬SS = ss, 139.162.37.161, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+🇺🇸SS1 = ss, 66.175.223.22, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+🇺🇸SS2 = ss, 69.30.201.82, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+🇺🇸SS3 = ss, 192.240.99.182, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+🇺🇸SS4 = ss, 50.7.12.147, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+🇫🇷SS = ss, 185.186.245.44, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+ASS1 = ss, 139.162.115.215, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+ASS2 = ss, 172.104.39.134, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+ASS3 = ss, 45.33.32.152, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+ASS4 = ss, 162.220.51.58, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+ASS5 = ss, 199.223.119.83, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+ASS6 = ss, 23.254.204.203, 8097, encrypt-method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D
